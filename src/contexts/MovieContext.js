@@ -8,9 +8,9 @@ const MOVIE_URL_POPULAR = "https://api.themoviedb.org/3/movie/popular";
 const MOVIE_URL_SEARCH = "https://api.themoviedb.org/3/search/movie?api_key=";
 
 const initialState = {
-  movies: [],
-  favorites: JSON.parse(localStorage.getItem("favorites")) || [],
-  searchResults: [], // Adicionei a propriedade searchResults ao estado inicial
+  movies: [], //Para os filmes populares ao iniciar a aplicacao
+  favorites: [],
+  searchResults: [], // Para os filmes que forem pesquisados pelo usuario
 };
 
 export const MovieContext = createContext();
