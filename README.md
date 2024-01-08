@@ -1,3 +1,17 @@
+### Aplicaçao de filmes usando React e conceitos como Context, Reducer, State, Effect, APIs.
+
+## OBS(As funções ADD_FAVORITES e REMOVE_FAVORITES do reducer ainda não foram implementadas na aplicação)
+
+## Passo a Passo
+
+## Passo 1 - Criacão de um Context
+
+## Passo 2 - Criacão de um Reducer
+
+## Passo 3 - Criação de um componente Header
+
+## Passo 4 - Criação de um componente MovieList
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
